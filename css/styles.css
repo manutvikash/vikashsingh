@@ -1,0 +1,170 @@
+body{
+  font-family: 'open Sans';
+}
+h1{
+
+  /* text-align: center; */
+  font-family: 'Alex Brush';
+  font-size: 7rem;
+  border-bottom: 1px solid white;
+  padding-bottom:0;
+
+}
+h2{
+  text-align: center;
+  color: #0f4c75;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+  font-family: 'open Sans';
+
+}
+h3{
+  font-family: 'open Sans';
+  font-size:2rem;
+}
+
+/* Head */
+#title{
+  color: white;
+
+}
+
+.nav-item{
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.navbar-dark{
+  background-color: 	#5f9ea0;
+}
+.jumbotron{
+  height: 610px;
+  text-align: center;
+background: no-repeat fixed url(../images/final1.png);
+background-size: cover;
+}
+.top{
+  margin-top: 15%;
+}
+.top-para{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+ /* profile */
+#profile{
+  padding: 3% 15%;
+}
+.image{
+  width: 90%;
+}
+p{
+  font-size: 1.2rem;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 3px;
+  border-color: #8d93ab;
+  width:40%;
+}
+
+#education{
+  /* background-color: #22a39f; */
+  background-color: #f3efe0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.quotation{
+  text-align: center;
+}
+
+#achievements{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.achiev-hr{
+  border-style: dotted none none;
+  border-width: 3px;
+  border-color: #8d93ab;
+  width:20%;
+
+}
+
+#skills{
+  background-color: #f3efe0;
+
+  padding: 3% 8%;
+  line-height: 3;
+}
+#skills ul li:hover{
+  background: #f2f0ed;
+}
+.fa-star{
+  color:#8d93ab;
+}
+.checked{
+  color: #22a39f;
+}
+.no-bullets{
+  list-style-type: none;
+}
+.left-side{
+display: inline-block;
+  width: 60%;
+}
+.languages{
+  list-style-type: none;
+
+}
+.languages-left{
+  display: inline-block;
+  width: 60%;
+  padding-right: 150px;
+}
+.languages span{
+  height:100%;
+  text-align: center;
+}
+.contact-me{
+  text-align: center;
+
+  width:100%;
+}
+.contact-h{
+  margin-bottom: 10px;
+}
+.btn{
+  background-color: #0f4c75;
+  border-radius: 5%;
+  line-height: 30px;
+  color:white;
+}
+
+.btn:hover{
+  background-color: #40e0d0;
+}
+
+.footer-link{
+  margin-left:35px;
+
+}
+.footer-para{
+  margin-top: 8px;
+}
+
+.bottom-container{
+  text-align: center;
+  font-family: 'open Sans';
+
+  margin-top: 20px;
+  padding: 20px;
+
+}
+ .git{
+  color:black;
+ }
+.insta{
+  color: red;
+}
